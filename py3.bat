@@ -1,0 +1,1 @@
+node insta.js "details1.json" 10
